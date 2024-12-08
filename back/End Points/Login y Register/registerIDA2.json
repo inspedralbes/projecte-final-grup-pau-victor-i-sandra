@@ -1,0 +1,10 @@
+{
+    "idUsusario": "id",
+    "datosPersonales": {
+        "edad": 3,
+        "ocupacion": "",
+        "sexo": "",
+        "nivelFisico": "",
+        "disponibilidadTiempo": ""
+    }
+}
